@@ -6,8 +6,7 @@ A simple and responsive stopwatch application built with React and Vite.
 
 ## 🚀 Live Demo
 
-Check out the live version of this project:  
-[https://codebyadib.github.io/react-stopwatch/](https://codebyadib.github.io/react-stopwatch/)
+Check out the live version of this project: [https://codebyadib.github.io/react-stopwatch/](https://codebyadib.github.io/react-stopwatch/)
 
 ---
 
@@ -55,5 +54,5 @@ Check out the live version of this project:
 
 ---
 
-Thanks for checking out this project! 😊
-## Follow me fo more...
+Thanks for checking out this project! Add a star if you liked it 😊
+## Follow me for more...
