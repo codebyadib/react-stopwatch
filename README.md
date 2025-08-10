@@ -1,12 +1,59 @@
-# React + Vite
+# ⏱️ React Stopwatch
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive stopwatch application built with React and Vite.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+Check out the live version of this project:  
+[https://codebyadib.github.io/react-stopwatch/](https://codebyadib.github.io/react-stopwatch/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- ▶️ Start, ⏸️ Stop, and 🔄 Reset the stopwatch  
+- Displays time in hours, minutes, seconds, and milliseconds  
+- 🧼 Clean and intuitive user interface  
+- 📱 Responsive design that works well on both desktop and mobile devices  
+
+---
+
+## 🛠️ Technologies Used
+
+- ⚛️ React (with Hooks)  
+- ⚡ Vite (for fast build and development)  
+- 🎨 Tailwind CSS for styling  
+
+---
+
+## 📋 Usage
+
+- Click **Start** to begin the stopwatch.  
+- Click **Stop** to pause the timer.  
+- Click **Reset** to reset the time back to zero.  
+
+---
+
+## 📁 Project Structure
+
+- `src/` - Contains React components and application logic  
+- `public/` - Static assets  
+- `dist/` - Production build output (after running build)  
+
+---
+
+## 📫 Contact & Links
+
+- 👤 **Author:** Adib Hassan  
+- 📧 **Email:** [dev.codebyadib@gmail.com](mailto:dev.codebyadib@gmail.com)  
+- 🔗 **LinkedIn:** [https://linkedin.com/in/codebyadib](https://linkedin.com/in/codebyadib)  
+- 🔗 **Facebook:** [https://facebook.com/codebyadibdev](https://facebook.com/codebyadibdev)  
+- 🔗 **Portfolio:** [Not made yet](#)  
+- 🔗 **GitHub:** [https://github.com/codebyadib](https://github.com/codebyadib)  
+
+---
+
+Thanks for checking out this project! 😊
+## Follow me fo more...
